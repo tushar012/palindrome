@@ -1,4 +1,5 @@
 #include<stdio.h>  
+#include<bits/stdc++.h>
 int main()    
 {    
 int n,r,sum=0,temp;    
